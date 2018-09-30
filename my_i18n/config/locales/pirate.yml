@@ -1,0 +1,5 @@
+pirate:
+  hello: 'Year!'
+  customers:
+    index:
+      name: Nome de pirata
